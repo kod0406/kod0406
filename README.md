@@ -1,5 +1,5 @@
 ## Hi there 👋
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kod04061&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kod04061&theme=cold)
 <!--
 **kod0406/kod0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
