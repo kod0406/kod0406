@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=(kod04061)&theme=(cold))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kod0406&layout=compact&theme=dark)
